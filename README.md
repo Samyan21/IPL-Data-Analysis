@@ -7,8 +7,8 @@
  4-Matplotlib
 # DataSet from Karggle
 # Questions in this project
-1-Top 10 team by number of match wins
-2-Does winning toss help win the match(percentage of match won when toss is won and matches lost when toss is won)
-3-Top 5 players
-4-Highest Scoring pitches
+1. Top 10 team by number of match wins
+2. Does winning toss help win the match(percentage of match won when toss is won and matches lost when toss is won)
+3. Top 5 players
+4. Highest Scoring pitches
 
